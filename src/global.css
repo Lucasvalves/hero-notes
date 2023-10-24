@@ -1,0 +1,20 @@
+:root{
+  --white: #ffff;
+  --gray-100: #ECECEC;
+  --primary: #4d69fe;
+  --secondary: #08b605;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  /* font-family: 'Caveat', cursive; */
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
